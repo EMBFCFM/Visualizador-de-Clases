@@ -1,0 +1,698 @@
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   1
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+      SEMESTRE: 00
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+905   07:00   Matemáticas financieras        L         1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:00   Matemáticas financieras        M         1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:00   Matemáticas financieras        Mi        1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:00   Matemáticas financieras        J         1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:00   Matemáticas financieras        V         1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:30   Matemáticas financieras        L         1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:30   Matemáticas financieras        M         1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:30   Matemáticas financieras        Mi        1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:30   Matemáticas financieras        J         1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+905   07:30   Matemáticas financieras        V         1   110380LIC. MICHELLE ALEJANDRA CASTILLO S 107
+006   18:0    Ética y Cultura de la Legalida J         1   107026LIC. EDUARDO CANTÚ GALLARDO        AVI34
+006   18:30   Ética y Cultura de la Legalida J         1   107026LIC. EDUARDO CANTÚ GALLARDO        AVI34
+006   19:00   Ética y Cultura de la Legalida J         1   107026LIC. EDUARDO CANTÚ GALLARDO        AVI34
+006   19:30   Ética y Cultura de la Legalida J         1   107026LIC. EDUARDO CANTÚ GALLARDO        AVI34
+      SEMESTRE: 01
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+608   13:00   Nanotecnología                 M         1   092314DRA. OXANA VASILIEVNA KHARISSOVA   201
+608   13:30   Nanotecnología                 M         1   092314DRA. OXANA VASILIEVNA KHARISSOVA   201
+608   14:00   Nanotecnología                 M         1   092314DRA. OXANA VASILIEVNA KHARISSOVA   201
+608   14:30   Nanotecnología                 M         1   092314DRA. OXANA VASILIEVNA KHARISSOVA   201
+608   15:00   Nanotecnología                 M         1   092314DRA. OXANA VASILIEVNA KHARISSOVA   201
+608   15:30   Nanotecnología                 M         1   092314DRA. OXANA VASILIEVNA KHARISSOVA   201
+      SEMESTRE: 02
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+674   12:00   Diseño de experimentos         L         1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:00   Diseño de experimentos         M         1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:00   Diseño de experimentos         Mi        1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:00   Diseño de experimentos         J         1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:00   Diseño de experimentos         V         1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:30   Diseño de experimentos         L         1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:30   Diseño de experimentos         M         1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:30   Diseño de experimentos         Mi        1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:30   Diseño de experimentos         J         1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+674   12:30   Diseño de experimentos         V         1   086070M.C. AZUCENA YOLOXÓCHITL RÍOS MERC 2LSTI
+      SEMESTRE: 03
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+240   07:00   Seguridad en telecomunicacione M         1   095803M.T. HERIBERTO NOÉ DE LA CRUZ SÁNC 115
+240   07:00   Seguridad en telecomunicacione J         1   095803M.T. HERIBERTO NOÉ DE LA CRUZ SÁNC 115
+240   07:30   Seguridad en telecomunicacione M         1   095803M.T. HERIBERTO NOÉ DE LA CRUZ SÁNC 115
+240   07:30   Seguridad en telecomunicacione J         1   095803M.T. HERIBERTO NOÉ DE LA CRUZ SÁNC 115
+240   08:00   Seguridad en telecomunicacione M         1   095803M.T. HERIBERTO NOÉ DE LA CRUZ SÁNC 115
+240   08:00   Seguridad en telecomunicacione J         1   095803M.T. HERIBERTO NOÉ DE LA CRUZ SÁNC 115
+240   08:30   Seguridad en telecomunicacione M         1   095803M.T. HERIBERTO NOÉ DE LA CRUZ SÁNC 115
+240   08:30   Seguridad en telecomunicacione J         1   095803M.T. HERIBERTO NOÉ DE LA CRUZ SÁNC 115
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   2
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+714   09:00   Simulación                     S         1   1FM175LIC. JOAQUIN DESIDERIO LOPEZ DE LA ORO
+714   09:30   Simulación                     S         1   1FM175LIC. JOAQUIN DESIDERIO LOPEZ DE LA ORO
+506   10:00   Interface y experiencia de usu S         1   108265LIC. IVAN ALEXIS CANTU GARCIA      404
+714   10:00   Simulación                     S         1   1FM175LIC. JOAQUIN DESIDERIO LOPEZ DE LA ORO
+506   10:30   Interface y experiencia de usu S         1   108265LIC. IVAN ALEXIS CANTU GARCIA      404
+714   10:30   Simulación                     S         1   1FM175LIC. JOAQUIN DESIDERIO LOPEZ DE LA ORO
+506   11:00   Interface y experiencia de usu S         1   108265LIC. IVAN ALEXIS CANTU GARCIA      404
+714   11:00   Simulación                     S         1   1FM175LIC. JOAQUIN DESIDERIO LOPEZ DE LA ORO
+506   11:30   Interface y experiencia de usu S         1   108265LIC. IVAN ALEXIS CANTU GARCIA      404
+714   11:30   Simulación                     S         1   1FM175LIC. JOAQUIN DESIDERIO LOPEZ DE LA ORO
+506   12:00   Interface y experiencia de usu S         1   108265LIC. IVAN ALEXIS CANTU GARCIA      404
+683   12:00   Didáctica de las matemáticas   L         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+683   12:00   Didáctica de las matemáticas   M         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+683   12:00   Didáctica de las matemáticas   Mi        1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+683   12:00   Didáctica de las matemáticas   J         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+683   12:00   Didáctica de las matemáticas   V         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+506   12:30   Interface y experiencia de usu S         1   108265LIC. IVAN ALEXIS CANTU GARCIA      404
+683   12:30   Didáctica de las matemáticas   L         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+683   12:30   Didáctica de las matemáticas   M         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+683   12:30   Didáctica de las matemáticas   Mi        1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+683   12:30   Didáctica de las matemáticas   J         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+683   12:30   Didáctica de las matemáticas   V         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     202
+061   17:00   METODOLOGIA CIENTIFICA         J         1   018445M.E.C. ALEJANDRO CAGLIOSTRO LARA N 302
+061   17:30   METODOLOGIA CIENTIFICA         J         1   018445M.E.C. ALEJANDRO CAGLIOSTRO LARA N 302
+061   18:0    METODOLOGIA CIENTIFICA         J         1   018445M.E.C. ALEJANDRO CAGLIOSTRO LARA N 302
+061   18:30   METODOLOGIA CIENTIFICA         J         1   018445M.E.C. ALEJANDRO CAGLIOSTRO LARA N 302
+
+      GRUPO: 002
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+683   17:00   Didáctica de las matemáticas   L         1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:00   Didáctica de las matemáticas   M         1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:00   Didáctica de las matemáticas   Mi        1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:00   Didáctica de las matemáticas   J         1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:00   Didáctica de las matemáticas   V         1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:30   Didáctica de las matemáticas   L         1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:30   Didáctica de las matemáticas   M         1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:30   Didáctica de las matemáticas   Mi        1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:30   Didáctica de las matemáticas   J         1   102627M.C. ADRIANA ARIAS AGUILAR         119
+683   17:30   Didáctica de las matemáticas   V         1   102627M.C. ADRIANA ARIAS AGUILAR         119
+
+      GRUPO: 061
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+276   19:00   EDUCACIÓN, CONCIENTIZACIÓN Y E L         1   112634LIC. JAIR BRANDO GARCÍA CASTILLO   AVI5
+276   19:30   EDUCACIÓN, CONCIENTIZACIÓN Y E L         1   112634LIC. JAIR BRANDO GARCÍA CASTILLO   AVI5
+276   20:00   EDUCACIÓN, CONCIENTIZACIÓN Y E L         1   112634LIC. JAIR BRANDO GARCÍA CASTILLO   AVI5
+276   20:30   EDUCACIÓN, CONCIENTIZACIÓN Y E L         1   112634LIC. JAIR BRANDO GARCÍA CASTILLO   AVI5
+276   21:00   EDUCACIÓN, CONCIENTIZACIÓN Y E L         1   112634LIC. JAIR BRANDO GARCÍA CASTILLO   AVI5
+276   21:30   EDUCACIÓN, CONCIENTIZACIÓN Y E L         1   112634LIC. JAIR BRANDO GARCÍA CASTILLO   AVI5
+
+      GRUPO: 062
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+279   10:00   Administración de riesgos de s S         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 112
+279   10:30   Administración de riesgos de s S         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 112
+279   11:00   Administración de riesgos de s S         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 112
+279   11:30   Administración de riesgos de s S         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 112
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   3
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+279   12:00   Administración de riesgos de s S         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 112
+279   12:30   Administración de riesgos de s S         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 112
+      SEMESTRE: 04
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+713   08:00   Topología                      L         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:00   Topología                      M         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:00   Topología                      Mi        1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:00   Topología                      J         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:00   Topología                      V         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:30   Topología                      L         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:30   Topología                      M         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:30   Topología                      Mi        1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:30   Topología                      J         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+713   08:30   Topología                      V         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   116
+655   09:00   Enseñanza de ciencias físico m L         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:00   Enseñanza de ciencias físico m M         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:00   Enseñanza de ciencias físico m Mi        1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:00   Enseñanza de ciencias físico m J         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:00   Enseñanza de ciencias físico m V         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:30   Enseñanza de ciencias físico m L         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:30   Enseñanza de ciencias físico m M         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:30   Enseñanza de ciencias físico m Mi        1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:30   Enseñanza de ciencias físico m J         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+655   09:30   Enseñanza de ciencias físico m V         1   094902DRA. ELIZABETH GUAJARDO GARCÍA     116
+126   11:00   Teoría de Autómatas            L         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:00   Teoría de Autómatas            M         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:00   Teoría de Autómatas            Mi        1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:00   Teoría de Autómatas            J         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:00   Teoría de Autómatas            V         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:30   Teoría de Autómatas            L         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:30   Teoría de Autómatas            M         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:30   Teoría de Autómatas            Mi        1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:30   Teoría de Autómatas            J         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+126   11:30   Teoría de Autómatas            V         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 106
+
+      GRUPO: 002
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+126   12:00   Teoría de Autómatas            L         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:00   Teoría de Autómatas            M         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:00   Teoría de Autómatas            Mi        1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:00   Teoría de Autómatas            J         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:00   Teoría de Autómatas            V         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:30   Teoría de Autómatas            L         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:30   Teoría de Autómatas            M         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:30   Teoría de Autómatas            Mi        1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:30   Teoría de Autómatas            J         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+126   12:30   Teoría de Autómatas            V         1   101608DR. YAZMANY JAHAZIEL GUERRERO CEJA 121
+
+      GRUPO: 061
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+618   15:00   MODELO DE NEGOCIOS             J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+618   15:30   MODELO DE NEGOCIOS             J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+618   16:00   MODELO DE NEGOCIOS             J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   4
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+618   16:30   MODELO DE NEGOCIOS             J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+618   17:00   MODELO DE NEGOCIOS             J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+618   17:30   MODELO DE NEGOCIOS             J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+      SEMESTRE: 05
+
+      GRUPO: 010
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+281   19:00   ADMINISTRACIÓN DE RIESGOS DE S Mi        1   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+281   19:30   ADMINISTRACIÓN DE RIESGOS DE S Mi        1   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+281   20:00   ADMINISTRACIÓN DE RIESGOS DE S Mi        1   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+281   20:30   ADMINISTRACIÓN DE RIESGOS DE S Mi        1   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+281   21:00   ADMINISTRACIÓN DE RIESGOS DE S Mi        1   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+281   21:30   ADMINISTRACIÓN DE RIESGOS DE S Mi        1   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+
+      GRUPO: 061
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+279   19:00   ADMINISTRACIÓN DE RIESGOS DE S MiMi      2   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+279   19:30   ADMINISTRACIÓN DE RIESGOS DE S MiMi      2   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+279   20:00   ADMINISTRACIÓN DE RIESGOS DE S MiMi      2   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+279   20:30   ADMINISTRACIÓN DE RIESGOS DE S MiMi      2   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+279   21:00   ADMINISTRACIÓN DE RIESGOS DE S MiMi      2   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+279   21:30   ADMINISTRACIÓN DE RIESGOS DE S MiMi      2   096984M.C. EFRÉN IVÁN TINOCO VÁZQUEZ     AVI4
+      SEMESTRE: 06
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+272   18:0    Ingeniería social              L         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 2LSTI
+272   18:30   Ingeniería social              L         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 2LSTI
+272   19:00   Ingeniería social              L         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 2LSTI
+272   19:30   Ingeniería social              L         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 2LSTI
+272   20:00   Ingeniería social              L         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 2LSTI
+272   20:30   Ingeniería social              L         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 2LSTI
+272   21:00   Ingeniería social              L         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 2LSTI
+272   21:30   Ingeniería social              L         1   113859ING. ELIDA GUADALUPE VILLARREAL GU 2LSTI
+
+      GRUPO: 002
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+272   20:00   Ingeniería social              M         1   1FM104LIC. JOSE EDUARDO TORRES TORRES    114
+272   20:00   Ingeniería social              J         1   1FM104LIC. JOSE EDUARDO TORRES TORRES    114
+272   20:30   Ingeniería social              M         1   1FM104LIC. JOSE EDUARDO TORRES TORRES    114
+272   20:30   Ingeniería social              J         1   1FM104LIC. JOSE EDUARDO TORRES TORRES    114
+272   21:00   Ingeniería social              M         1   1FM104LIC. JOSE EDUARDO TORRES TORRES    114
+272   21:00   Ingeniería social              J         1   1FM104LIC. JOSE EDUARDO TORRES TORRES    114
+272   21:30   Ingeniería social              M         1   1FM104LIC. JOSE EDUARDO TORRES TORRES    114
+272   21:30   Ingeniería social              J         1   1FM104LIC. JOSE EDUARDO TORRES TORRES    114
+      SEMESTRE: 07
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+551   10:30   Redes Inalámbricas y Móviles   M         1   019673M.T. JORGE HERNÁNDEZ BÁEZ          LSTI
+551   10:30   Redes Inalámbricas y Móviles   J         1   019673M.T. JORGE HERNÁNDEZ BÁEZ          LSTI
+551   11:00   Redes Inalámbricas y Móviles   M         1   019673M.T. JORGE HERNÁNDEZ BÁEZ          LSTI
+551   11:00   Redes Inalámbricas y Móviles   J         1   019673M.T. JORGE HERNÁNDEZ BÁEZ          LSTI
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   5
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+551   11:30   Redes Inalámbricas y Móviles   M         1   019673M.T. JORGE HERNÁNDEZ BÁEZ          LSTI
+551   11:30   Redes Inalámbricas y Móviles   J         1   019673M.T. JORGE HERNÁNDEZ BÁEZ          LSTI
+      SEMESTRE: 08
+
+      GRUPO: 002
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+715   12:00   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+715   12:30   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+715   13:00   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+715   13:30   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+690   14:00   Procesos estocásticos          L         1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+690   14:00   Procesos estocásticos          Mi        1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+715   14:00   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+690   14:30   Procesos estocásticos          L         1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+690   14:30   Procesos estocásticos          Mi        1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+715   14:30   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+690   15:00   Procesos estocásticos          L         1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+690   15:00   Procesos estocásticos          Mi        1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+690   15:00   Procesos estocásticos          J         1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+715   15:00   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+690   15:30   Procesos estocásticos          J         1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+715   15:30   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+690   16:00   Procesos estocásticos          J         1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+715   16:00   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+690   16:30   Procesos estocásticos          J         1   101267DR. FRANCISCO JAVIER ALMAGUER MART 301
+715   16:30   TEORIA DE LA MEDIDA            SS        2   086069DRA. MARÍA ESTHER GRIMALDO REYNA   AF02
+
+      GRUPO: 007
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+930   07:00   Servicio social                L         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   07:00   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   07:30   Servicio social                L         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   07:30   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+
+      GRUPO: 008
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+930   07:00   Servicio social                Mi        1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   07:30   Servicio social                Mi        1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   08:00   Servicio social                Mi        1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   08:30   Servicio social                Mi        1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+
+      GRUPO: 009
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+930   18:0    Servicio social                L         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   18:30   Servicio social                L         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   19:00   Servicio social                L         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   19:30   Servicio social                L         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+
+      GRUPO: 010
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+930   09:00   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   09:30   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   10:00   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   6
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+930   10:30   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+
+      GRUPO: 011
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+930   11:00   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   11:30   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   12:00   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+930   12:30   Servicio social                V         1   092761M.A. CARLOS ALEJANDRO ELIZONDO ESP AVI50
+      SEMESTRE: 09
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+689   12:00   ANALISIS FUNCIONAL             LMiV      3   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO LAF1
+689   12:30   ANALISIS FUNCIONAL             LMiV      3   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO LAF1
+      SEMESTRE: 11
+
+      GRUPO: 001
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+117   07:00   Matemáticas Discretas          L         1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:00   Matemáticas Discretas          M         1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:00   Matemáticas Discretas          Mi        1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:00   Matemáticas Discretas          J         1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:00   Matemáticas Discretas          V         1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:30   Matemáticas Discretas          L         1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:30   Matemáticas Discretas          M         1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:30   Matemáticas Discretas          Mi        1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:30   Matemáticas Discretas          J         1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+117   07:30   Matemáticas Discretas          V         1   002558DRA. LILIA GUADALUPE GARCÍA FIGUER 108
+335   09:00   TEORÍA DE CONTROL              LMMiJV    5   016282DRA. MARÍA ARACELIA ALCORTA GARCÍA AF02
+335   09:30   TEORÍA DE CONTROL              LMMiJV    5   016282DRA. MARÍA ARACELIA ALCORTA GARCÍA AF02
+680   10:00   Métodos de optimización        L         1   092039DRA. NATALIYA KALASHNYKOVA         412
+680   10:00   Métodos de optimización        M         1   092039DRA. NATALIYA KALASHNYKOVA         412
+680   10:00   Métodos de optimización        Mi        1   092039DRA. NATALIYA KALASHNYKOVA         412
+680   10:00   Métodos de optimización        J         1   092039DRA. NATALIYA KALASHNYKOVA         412
+680   10:00   Métodos de optimización        V         1   092039DRA. NATALIYA KALASHNYKOVA         412
+710   10:00   Teoría de anillos y campos     L         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+710   10:00   Teoría de anillos y campos     M         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+710   10:00   Teoría de anillos y campos     Mi        1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+710   10:00   Teoría de anillos y campos     J         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+710   10:00   Teoría de anillos y campos     V         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+731   10:00   INVESTIGACIÓN EDUCATIVA        LMMiJV    5   084375M.C. EVA MIRELLA MARTÍNEZ RODRÍGUE 117
+P15   10:00   PRACTICAS PROFESIONALES        Mi        1   019689DR. JOSÉ APOLINAR LOYOLA RODRÍGUEZ AVI49
+680   10:30   Métodos de optimización        L         1   092039DRA. NATALIYA KALASHNYKOVA         412
+680   10:30   Métodos de optimización        M         1   092039DRA. NATALIYA KALASHNYKOVA         412
+680   10:30   Métodos de optimización        Mi        1   092039DRA. NATALIYA KALASHNYKOVA         412
+680   10:30   Métodos de optimización        J         1   092039DRA. NATALIYA KALASHNYKOVA         412
+680   10:30   Métodos de optimización        V         1   092039DRA. NATALIYA KALASHNYKOVA         412
+710   10:30   Teoría de anillos y campos     L         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+710   10:30   Teoría de anillos y campos     M         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+710   10:30   Teoría de anillos y campos     Mi        1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+710   10:30   Teoría de anillos y campos     J         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+710   10:30   Teoría de anillos y campos     V         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+731   10:30   INVESTIGACIÓN EDUCATIVA        LMMiJV    5   084375M.C. EVA MIRELLA MARTÍNEZ RODRÍGUE 117
+P15   10:30   PRACTICAS PROFESIONALES        Mi        1   019689DR. JOSÉ APOLINAR LOYOLA RODRÍGUEZ AVI49
+709   11:00   Análisis matemático            L         1   106752DRA. LILIA ALANÍS LÓPEZ            121
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   7
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+709   11:00   Análisis matemático            M         1   106752DRA. LILIA ALANÍS LÓPEZ            121
+709   11:00   Análisis matemático            Mi        1   106752DRA. LILIA ALANÍS LÓPEZ            121
+709   11:00   Análisis matemático            J         1   106752DRA. LILIA ALANÍS LÓPEZ            121
+709   11:00   Análisis matemático            V         1   106752DRA. LILIA ALANÍS LÓPEZ            121
+712   11:00   Tópicos de análisis matemático L         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+712   11:00   Tópicos de análisis matemático M         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+712   11:00   Tópicos de análisis matemático Mi        1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+712   11:00   Tópicos de análisis matemático J         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+712   11:00   Tópicos de análisis matemático V         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+P15   11:00   PRACTICAS PROFESIONALES        Mi        1   019689DR. JOSÉ APOLINAR LOYOLA RODRÍGUEZ AVI49
+709   11:30   Análisis matemático            L         1   106752DRA. LILIA ALANÍS LÓPEZ            121
+709   11:30   Análisis matemático            M         1   106752DRA. LILIA ALANÍS LÓPEZ            121
+709   11:30   Análisis matemático            Mi        1   106752DRA. LILIA ALANÍS LÓPEZ            121
+709   11:30   Análisis matemático            J         1   106752DRA. LILIA ALANÍS LÓPEZ            121
+709   11:30   Análisis matemático            V         1   106752DRA. LILIA ALANÍS LÓPEZ            121
+712   11:30   Tópicos de análisis matemático L         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+712   11:30   Tópicos de análisis matemático M         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+712   11:30   Tópicos de análisis matemático Mi        1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+712   11:30   Tópicos de análisis matemático J         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+712   11:30   Tópicos de análisis matemático V         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 411
+P15   11:30   PRACTICAS PROFESIONALES        Mi        1   019689DR. JOSÉ APOLINAR LOYOLA RODRÍGUEZ AVI49
+679   12:00   Tópicos de álgebra abstracta   L         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+679   12:00   Tópicos de álgebra abstracta   M         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+679   12:00   Tópicos de álgebra abstracta   Mi        1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+679   12:00   Tópicos de álgebra abstracta   J         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+679   12:00   Tópicos de álgebra abstracta   V         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+686   12:00   Teoría de juegos               L         1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+686   12:00   Teoría de juegos               M         1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+686   12:00   Teoría de juegos               Mi        1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+686   12:00   Teoría de juegos               J         1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+686   12:00   Teoría de juegos               V         1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+679   12:30   Tópicos de álgebra abstracta   L         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+679   12:30   Tópicos de álgebra abstracta   M         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+679   12:30   Tópicos de álgebra abstracta   Mi        1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+679   12:30   Tópicos de álgebra abstracta   J         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+679   12:30   Tópicos de álgebra abstracta   V         1   093929M.C. HÉCTOR DAMIÁN MÉNDEZ DÁVILA   117
+686   12:30   Teoría de juegos               L         1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+686   12:30   Teoría de juegos               M         1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+686   12:30   Teoría de juegos               Mi        1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+686   12:30   Teoría de juegos               J         1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+686   12:30   Teoría de juegos               V         1   107058LIC. JHOSBAN ALBERTO MACHORRO MAYO 118
+330   15:00   Estado sólido                  L         1   092785DR. MANUEL GARCÍA MÉNDEZ           LAF1
+330   15:00   Estado sólido                  Mi        1   092785DR. MANUEL GARCÍA MÉNDEZ           LAF1
+330   15:00   Estado sólido                  V         1   092785DR. MANUEL GARCÍA MÉNDEZ           LAF1
+330   15:30   Estado sólido                  L         1   092785DR. MANUEL GARCÍA MÉNDEZ           LAF1
+330   15:30   Estado sólido                  Mi        1   092785DR. MANUEL GARCÍA MÉNDEZ           LAF1
+330   15:30   Estado sólido                  V         1   092785DR. MANUEL GARCÍA MÉNDEZ           LAF1
+663   15:30   Física nuclear                 M         1   107655DR. FRANCISCO VICENTE FLORES BAEZ  LAF1
+663   15:30   Física nuclear                 J         1   107655DR. FRANCISCO VICENTE FLORES BAEZ  LAF1
+259   16:00   Inglés para tecnologías        L         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+259   16:00   Inglés para tecnologías        M         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+259   16:00   Inglés para tecnologías        Mi        1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+259   16:00   Inglés para tecnologías        J         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+259   16:00   Inglés para tecnologías        V         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+663   16:00   Física nuclear                 M         1   107655DR. FRANCISCO VICENTE FLORES BAEZ  LAF1
+663   16:00   Física nuclear                 J         1   107655DR. FRANCISCO VICENTE FLORES BAEZ  LAF1
+666   16:00   Óptica y aplicaciones          L         1   0FM863DR. JULIO CÉSAR ESTRADA ESPINOSA   AF02
+666   16:00   Óptica y aplicaciones          Mi        1   0FM863DR. JULIO CÉSAR ESTRADA ESPINOSA   AF02
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   8
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+666   16:00   Óptica y aplicaciones          V         1   0FM863DR. JULIO CÉSAR ESTRADA ESPINOSA   AF02
+690   16:00   Procesos estocásticos          L         1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+690   16:00   Procesos estocásticos          M         1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+690   16:00   Procesos estocásticos          Mi        1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+259   16:30   Inglés para tecnologías        L         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+259   16:30   Inglés para tecnologías        M         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+259   16:30   Inglés para tecnologías        Mi        1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+259   16:30   Inglés para tecnologías        J         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+259   16:30   Inglés para tecnologías        V         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+663   16:30   Física nuclear                 M         1   107655DR. FRANCISCO VICENTE FLORES BAEZ  LAF1
+663   16:30   Física nuclear                 J         1   107655DR. FRANCISCO VICENTE FLORES BAEZ  LAF1
+666   16:30   Óptica y aplicaciones          L         1   0FM863DR. JULIO CÉSAR ESTRADA ESPINOSA   AF02
+666   16:30   Óptica y aplicaciones          Mi        1   0FM863DR. JULIO CÉSAR ESTRADA ESPINOSA   AF02
+666   16:30   Óptica y aplicaciones          V         1   0FM863DR. JULIO CÉSAR ESTRADA ESPINOSA   AF02
+690   16:30   Procesos estocásticos          L         1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+690   16:30   Procesos estocásticos          M         1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+690   16:30   Procesos estocásticos          Mi        1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+080   17:00   Inglés para tecnologías        L         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+080   17:00   Inglés para tecnologías        M         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+080   17:00   Inglés para tecnologías        Mi        1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+080   17:00   Inglés para tecnologías        J         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+080   17:00   Inglés para tecnologías        V         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+690   17:00   Procesos estocásticos          L         1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+690   17:00   Procesos estocásticos          Mi        1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+080   17:30   Inglés para tecnologías        L         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+080   17:30   Inglés para tecnologías        M         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+080   17:30   Inglés para tecnologías        Mi        1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+080   17:30   Inglés para tecnologías        J         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+080   17:30   Inglés para tecnologías        V         1   113877LIC. CATHY ELIZABETH TREJO ROBLES  117
+690   17:30   Procesos estocásticos          L         1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+690   17:30   Procesos estocásticos          Mi        1   086256DR. MIKHAIL VALENTINOVICH BASIN    303
+281   18:0    Auditoría de seguridad de la i M         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI14
+281   18:30   Auditoría de seguridad de la i M         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI14
+281   19:00   Auditoría de seguridad de la i M         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI14
+619   19:00   Seminario de Computación       Mi        1   112211M.A. LUIS DANIEL VAZQUEZ CARDONA   A2PIS
+281   19:30   Auditoría de seguridad de la i M         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI14
+619   19:30   Seminario de Computación       Mi        1   112211M.A. LUIS DANIEL VAZQUEZ CARDONA   A2PIS
+281   20:00   Auditoría de seguridad de la i M         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI14
+619   20:00   Seminario de Computación       Mi        1   112211M.A. LUIS DANIEL VAZQUEZ CARDONA   A2PIS
+281   20:30   Auditoría de seguridad de la i M         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI14
+619   20:30   Seminario de Computación       Mi        1   112211M.A. LUIS DANIEL VAZQUEZ CARDONA   A2PIS
+281   21:00   Auditoría de seguridad de la i M         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI14
+619   21:00   Seminario de Computación       Mi        1   112211M.A. LUIS DANIEL VAZQUEZ CARDONA   A2PIS
+281   21:30   Auditoría de seguridad de la i M         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI14
+619   21:30   Seminario de Computación       Mi        1   112211M.A. LUIS DANIEL VAZQUEZ CARDONA   A2PIS
+
+      GRUPO: 002
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+712   11:00   Tópicos de análisis matemático L         1   109339DR RAÚL GÓMEZ MUÑOZ                117
+712   11:00   Tópicos de análisis matemático M         1   109339DR RAÚL GÓMEZ MUÑOZ                117
+712   11:00   Tópicos de análisis matemático Mi        1   109339DR RAÚL GÓMEZ MUÑOZ                117
+712   11:00   Tópicos de análisis matemático J         1   109339DR RAÚL GÓMEZ MUÑOZ                117
+712   11:00   Tópicos de análisis matemático V         1   109339DR RAÚL GÓMEZ MUÑOZ                117
+902   11:00   Economía                       L         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+902   11:00   Economía                       M         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+902   11:00   Economía                       Mi        1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+902   11:00   Economía                       J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag   9
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+902   11:00   Economía                       V         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+712   11:30   Tópicos de análisis matemático L         1   109339DR RAÚL GÓMEZ MUÑOZ                117
+712   11:30   Tópicos de análisis matemático M         1   109339DR RAÚL GÓMEZ MUÑOZ                117
+712   11:30   Tópicos de análisis matemático Mi        1   109339DR RAÚL GÓMEZ MUÑOZ                117
+712   11:30   Tópicos de análisis matemático J         1   109339DR RAÚL GÓMEZ MUÑOZ                117
+712   11:30   Tópicos de análisis matemático V         1   109339DR RAÚL GÓMEZ MUÑOZ                117
+902   11:30   Economía                       L         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+902   11:30   Economía                       M         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+902   11:30   Economía                       Mi        1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+902   11:30   Economía                       J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+902   11:30   Economía                       V         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 115
+709   12:00   Análisis matemático            L         1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:00   Análisis matemático            M         1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:00   Análisis matemático            Mi        1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:00   Análisis matemático            J         1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:00   Análisis matemático            V         1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:30   Análisis matemático            L         1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:30   Análisis matemático            M         1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:30   Análisis matemático            Mi        1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:30   Análisis matemático            J         1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+709   12:30   Análisis matemático            V         1   111059LIC. ADRIÁN MENDOZA ALMAGUER       306
+117   13:00   Matemáticas Discretas          L         1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:00   Matemáticas Discretas          M         1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:00   Matemáticas Discretas          Mi        1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:00   Matemáticas Discretas          J         1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:00   Matemáticas Discretas          V         1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:30   Matemáticas Discretas          L         1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:30   Matemáticas Discretas          M         1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:30   Matemáticas Discretas          Mi        1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:30   Matemáticas Discretas          J         1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+117   13:30   Matemáticas Discretas          V         1   112810LIC ANGELES SAHORI POLINO MARTINEZ 107
+006   17:00   Ética y Cultura de la Legalida M         1   0FM594M.A. LÁZARO TREVIÑO CASTILLO       AVI38
+006   17:30   Ética y Cultura de la Legalida M         1   0FM594M.A. LÁZARO TREVIÑO CASTILLO       AVI38
+006   18:0    Ética y Cultura de la Legalida M         1   0FM594M.A. LÁZARO TREVIÑO CASTILLO       AVI38
+143   18:0    Investigación de Operaciones   L         1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+143   18:0    Investigación de Operaciones   M         1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+143   18:0    Investigación de Operaciones   Mi        1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+143   18:0    Investigación de Operaciones   J         1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+143   18:0    Investigación de Operaciones   V         1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+281   18:0    Auditoría de seguridad de la i L         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI6
+006   18:30   Ética y Cultura de la Legalida M         1   0FM594M.A. LÁZARO TREVIÑO CASTILLO       AVI38
+143   18:30   Investigación de Operaciones   L         1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+143   18:30   Investigación de Operaciones   M         1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+143   18:30   Investigación de Operaciones   Mi        1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+143   18:30   Investigación de Operaciones   J         1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+143   18:30   Investigación de Operaciones   V         1   113847M.C. MARIO ALBERTO GUTIERREZ CARRA 106
+281   18:30   Auditoría de seguridad de la i L         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI6
+281   19:00   Auditoría de seguridad de la i L         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI6
+281   19:30   Auditoría de seguridad de la i L         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI6
+281   20:00   Auditoría de seguridad de la i L         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI6
+281   20:30   Auditoría de seguridad de la i L         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI6
+281   21:00   Auditoría de seguridad de la i L         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI6
+281   21:30   Auditoría de seguridad de la i L         1   106732ING. GUILLERMO FRANCO TREVIÑO      AVI6
+
+      GRUPO: 003
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+062   07:00   Liderazgo Emprendimiento e Inn M         1   096543DRA. FLOR ARACELI GARCÍA CASTILLO  AVI31
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag  10
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+062   07:30   Liderazgo Emprendimiento e Inn M         1   096543DRA. FLOR ARACELI GARCÍA CASTILLO  AVI31
+062   08:00   Liderazgo Emprendimiento e Inn M         1   096543DRA. FLOR ARACELI GARCÍA CASTILLO  AVI31
+062   08:30   Liderazgo Emprendimiento e Inn M         1   096543DRA. FLOR ARACELI GARCÍA CASTILLO  AVI31
+902   12:00   Economía                       L         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:00   Economía                       M         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:00   Economía                       Mi        1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:00   Economía                       J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:00   Economía                       V         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:30   Economía                       L         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:30   Economía                       M         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:30   Economía                       Mi        1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:30   Economía                       J         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+902   12:30   Economía                       V         1   111071MTRO. EMILIO ATILANO MARTÍNEZ ALVA 112
+715   13:00   Teoría de la medida            L         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:00   Teoría de la medida            M         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:00   Teoría de la medida            Mi        1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:00   Teoría de la medida            J         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:00   Teoría de la medida            V         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:30   Teoría de la medida            L         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:30   Teoría de la medida            M         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:30   Teoría de la medida            Mi        1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:30   Teoría de la medida            J         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+715   13:30   Teoría de la medida            V         1   097798LIC. HOMERO ALEJANDRO ESCAMILLA RO 116
+176   19:00   Modelado en alto poligonaje    J         1   1FM005LIC CAROLINA RUBI GARCIA SANCHEZ A AVI13
+176   19:30   Modelado en alto poligonaje    J         1   1FM005LIC CAROLINA RUBI GARCIA SANCHEZ A AVI13
+176   20:00   Modelado en alto poligonaje    J         1   1FM005LIC CAROLINA RUBI GARCIA SANCHEZ A AVI13
+176   20:30   Modelado en alto poligonaje    J         1   1FM005LIC CAROLINA RUBI GARCIA SANCHEZ A AVI13
+176   21:00   Modelado en alto poligonaje    J         1   1FM005LIC CAROLINA RUBI GARCIA SANCHEZ A AVI13
+176   21:30   Modelado en alto poligonaje    J         1   1FM005LIC CAROLINA RUBI GARCIA SANCHEZ A AVI13
+
+      GRUPO: 004
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+062   07:00   Liderazgo Emprendimiento e Inn Mi        1   096543DRA. FLOR ARACELI GARCÍA CASTILLO  AVI31
+062   07:30   Liderazgo Emprendimiento e Inn Mi        1   096543DRA. FLOR ARACELI GARCÍA CASTILLO  AVI31
+062   08:00   Liderazgo Emprendimiento e Inn Mi        1   096543DRA. FLOR ARACELI GARCÍA CASTILLO  AVI31
+062   08:30   Liderazgo Emprendimiento e Inn Mi        1   096543DRA. FLOR ARACELI GARCÍA CASTILLO  AVI31
+
+      GRUPO: 021
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+700   12:00   TÓPICOS SELECTOS DE FÍSICA     M         1   097799DR. OMAR GONZÁLEZ AMEZCUA          LAF2
+700   12:30   TÓPICOS SELECTOS DE FÍSICA     M         1   097799DR. OMAR GONZÁLEZ AMEZCUA          LAF2
+
+      GRUPO: 061
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+260   07:00   NUEVAS TECNOLOGIAS DE SEGURIDA S         1   103533ING. ELEAZAR FUENTES OAXACA        AVI3
+260   07:30   NUEVAS TECNOLOGIAS DE SEGURIDA S         1   103533ING. ELEAZAR FUENTES OAXACA        AVI3
+260   08:00   NUEVAS TECNOLOGIAS DE SEGURIDA S         1   103533ING. ELEAZAR FUENTES OAXACA        AVI3
+260   08:30   NUEVAS TECNOLOGIAS DE SEGURIDA S         1   103533ING. ELEAZAR FUENTES OAXACA        AVI3
+260   09:00   NUEVAS TECNOLOGIAS DE SEGURIDA S         1   103533ING. ELEAZAR FUENTES OAXACA        AVI3
+260   09:30   NUEVAS TECNOLOGIAS DE SEGURIDA S         1   103533ING. ELEAZAR FUENTES OAXACA        AVI3
+265   10:00   DESARROLLO Y GESTION DE LAS PO S         1   113854LIC. JOSÉ ARMANDO LÓPEZ FLORES     AVI2
+265   10:30   DESARROLLO Y GESTION DE LAS PO S         1   113854LIC. JOSÉ ARMANDO LÓPEZ FLORES     AVI2
+265   11:00   DESARROLLO Y GESTION DE LAS PO S         1   113854LIC. JOSÉ ARMANDO LÓPEZ FLORES     AVI2
+265   11:30   DESARROLLO Y GESTION DE LAS PO S         1   113854LIC. JOSÉ ARMANDO LÓPEZ FLORES     AVI2
+265   12:00   DESARROLLO Y GESTION DE LAS PO S         1   113854LIC. JOSÉ ARMANDO LÓPEZ FLORES     AVI2
+
+        16/06/23                 UNIVERSIDAD AUTONOMA DE NUEVO LEON                  Pag  11
+                               FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS
+                                      HORARIOS PARA EL SEMESTRE
+                                      PERIODO: ENERO-JUNIO 2023
+                              PLAN DE ESTUDIO: 401 MODELO ACADEMICO V1
+  ------------------------------------------------------------------------------------------------
+
+265   12:30   DESARROLLO Y GESTION DE LAS PO S         1   113854LIC. JOSÉ ARMANDO LÓPEZ FLORES     AVI2
+256   19:00   LEYES INVESTIGACION Y ETICA    J         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+267   19:00   SEGURIDAD EN COMPUTO EN LA NUB V         1   0FM808ING ADRIÁN ISRAEL FLORES RODRÍGUEZ LAF1
+269   19:00   COMPUTO FORENSE PARA ABOGADOS  M         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+256   19:30   LEYES INVESTIGACION Y ETICA    J         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+267   19:30   SEGURIDAD EN COMPUTO EN LA NUB V         1   0FM808ING ADRIÁN ISRAEL FLORES RODRÍGUEZ LAF1
+269   19:30   COMPUTO FORENSE PARA ABOGADOS  M         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+256   20:00   LEYES INVESTIGACION Y ETICA    J         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+267   20:00   SEGURIDAD EN COMPUTO EN LA NUB V         1   0FM808ING ADRIÁN ISRAEL FLORES RODRÍGUEZ LAF1
+269   20:00   COMPUTO FORENSE PARA ABOGADOS  M         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+256   20:30   LEYES INVESTIGACION Y ETICA    J         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+267   20:30   SEGURIDAD EN COMPUTO EN LA NUB V         1   0FM808ING ADRIÁN ISRAEL FLORES RODRÍGUEZ LAF1
+269   20:30   COMPUTO FORENSE PARA ABOGADOS  M         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+256   21:00   LEYES INVESTIGACION Y ETICA    J         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+267   21:00   SEGURIDAD EN COMPUTO EN LA NUB V         1   0FM808ING ADRIÁN ISRAEL FLORES RODRÍGUEZ LAF1
+269   21:00   COMPUTO FORENSE PARA ABOGADOS  M         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+256   21:30   LEYES INVESTIGACION Y ETICA    J         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+267   21:30   SEGURIDAD EN COMPUTO EN LA NUB V         1   0FM808ING ADRIÁN ISRAEL FLORES RODRÍGUEZ LAF1
+269   21:30   COMPUTO FORENSE PARA ABOGADOS  M         1   105553DR. SANTIAGO MENCHACA BRAVO        LAF1
+
+      GRUPO: 063
+FOLIO HORARIO MATERIA                        DIAS    CARGA EMP   CATEDRATICO                        AULA
+----- ------- ------------------------------ ------  ----- ----- ---------------------------------  ----
+268   08:00   LEYES Y REGULACIONES           V         1   108207M.A. MÓNICA MONTEMAYOR TREVIÑO     AVI1
+268   08:30   LEYES Y REGULACIONES           V         1   108207M.A. MÓNICA MONTEMAYOR TREVIÑO     AVI1
+268   09:00   LEYES Y REGULACIONES           V         1   108207M.A. MÓNICA MONTEMAYOR TREVIÑO     AVI1
+268   09:30   LEYES Y REGULACIONES           V         1   108207M.A. MÓNICA MONTEMAYOR TREVIÑO     AVI1
+268   10:00   LEYES Y REGULACIONES           V         1   108207M.A. MÓNICA MONTEMAYOR TREVIÑO     AVI1
+268   10:30   LEYES Y REGULACIONES           V         1   108207M.A. MÓNICA MONTEMAYOR TREVIÑO     AVI1
+
